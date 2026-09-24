@@ -4,7 +4,7 @@ function saludar(nombre) {
 
 console.log(saludar("Jairo"));
 
-
+git 
 let cliente = "Jairo";
 cliente = "Pepito";
 cliente = 20;
